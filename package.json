@@ -8,8 +8,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["TypeScript", "Git"],
+  "author": "Héctor Villaverde <hvilla65@gmail.com>",
   "license": "ISC",
-  "description": ""
+  "description": "Fundamentos de TypeScript"
 }
