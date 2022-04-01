@@ -14,5 +14,8 @@
   ],
   "author": "Héctor Villaverde <hvilla65@gmail.com>",
   "license": "ISC",
-  "description": "Fundamentos de TypeScript"
+  "description": "Fundamentos de TypeScript",
+  "dependencies": {
+    "date-fns": "^2.28.0"
+  }
 }
