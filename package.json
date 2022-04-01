@@ -3,7 +3,7 @@
     "typescript": "^4.6.3"
   },
   "name": "ts-project",
-  "version": "1.15.0",
+  "version": "1.16.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
